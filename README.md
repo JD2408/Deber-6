@@ -113,11 +113,7 @@ El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 ![image](https://user-images.githubusercontent.com/93794279/148854322-788b22a7-e84e-44a7-8667-72d7e8dd442e.png)
 
 
-20. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo.
 
-![image](https://user-images.githubusercontent.com/93794279/148857853-b3e03c41-eee7-4558-94a5-88e41bd85396.png)
-
-21.. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
 
 
 
