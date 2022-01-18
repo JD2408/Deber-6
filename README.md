@@ -44,6 +44,8 @@ SECCIÓN 12–1 El capacitor básico
 
 6. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?
 
+![image](https://user-images.githubusercontent.com/93794279/149850924-1abe8a6d-daf3-4425-8026-7cbff0afd5a1.png)
+
 
 
 ## 4. VIDEOS
