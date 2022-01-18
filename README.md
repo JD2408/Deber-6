@@ -38,4 +38,15 @@ SECCIÓN 12–1 El capacitor básico
 
 ![image](https://user-images.githubusercontent.com/93794279/149850462-ed873412-e711-4f8a-8040-8fc4813f36c3.png)
 
+5. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5x10^4 m. Calcule la capacitancia.
 
+![image](https://user-images.githubusercontent.com/93794279/149850719-e0fc6094-7fb6-468d-8eea-b339387f5d5f.png)
+
+6. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+
+
+## 4. VIDEOS
+
+## 5. CONCLUSIONES
+## 6. BIBLIOGRAFIA
