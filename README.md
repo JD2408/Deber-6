@@ -33,3 +33,6 @@ SECCIÓN 12–1 El capacitor básico
 
 ![image](https://user-images.githubusercontent.com/93794279/149850145-9b2d3b9a-fc53-4de7-b597-0b2644a4633d.png)
 
+4.Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
+(a) aire (b) aceite (c) vidrio (d) Teflón®
+
