@@ -108,11 +108,11 @@ flujo en gauss.
 
 El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 
-19.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
-de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
-control. Trace el diagrama esquemático.
+19.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x 106 T y el área de sección transversal mide 150 cm2 ?
 
-![1](https://user-images.githubusercontent.com/93800511/143509093-5fb97f0d-b273-43a6-bfd9-662960dc70e9.png)
+![image](https://user-images.githubusercontent.com/93794279/148854322-788b22a7-e84e-44a7-8667-72d7e8dd442e.png)
+
+
 20. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo.
 
 ![image](https://user-images.githubusercontent.com/93794279/148857853-b3e03c41-eee7-4558-94a5-88e41bd85396.png)
