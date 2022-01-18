@@ -260,6 +260,11 @@ El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 
 ## 4. VIDEOS
 
+
+
+### Capitulo 12
+1. https://youtu.be/lr8Rrz5xQbI
+
 ## 5. CONCLUSIONES
 1. Los capacitores como las resistencias se pueden conectar en serie y en paralelo. Para los capacitores en serie, la carga es la misma en todos ellos.
 2. El capacitor es un dispositivo que almacena energía en un campo electrostático.
