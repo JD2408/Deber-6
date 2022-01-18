@@ -77,6 +77,16 @@ Ct=1/{(1/0.1)+(1/0.01)+(1/0.001)+(1/0.0001)}
 Ct= 0.00000989
 Ct=9.89 pF
 
+13. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
+(b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+![image](https://user-images.githubusercontent.com/93794279/149856511-92a6fc48-a734-48a4-b376-4db771b46d80.png)
+
+14.Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+(a) (b)
+(c) R = 22 kÆ, C = 100 pF (d) R = 5.6 MÆ, C = 10 pF
+R = 56 Æ, C = 47 mF R = 3300 Æ, C = 0.015 mF
 
 
 ## 4. VIDEOS
