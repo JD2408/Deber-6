@@ -101,10 +101,10 @@ d) T 5.6 * 10 = 93.52 F
 
 ![image](https://user-images.githubusercontent.com/93794279/141905541-e5d0198a-1b2c-4667-bdf6-e1269ab8b3f5.png)
 
-18.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
-localizado en el circuito?
+18.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
+flujo en gauss.
 
-![1](https://user-images.githubusercontent.com/93800511/143508482-490379e8-7430-4aa7-bf4c-bdea3d47d892.png)
+![image](https://user-images.githubusercontent.com/93794279/148854722-0a32fb42-f885-4135-8059-7afca98ac27b.png)
 
 El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 
@@ -113,11 +113,12 @@ de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie c
 control. Trace el diagrama esquemático.
 
 ![1](https://user-images.githubusercontent.com/93800511/143509093-5fb97f0d-b273-43a6-bfd9-662960dc70e9.png)
+20. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo.
 
-20.. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
-![image](https://user-images.githubusercontent.com/93794279/149865160-b6a679e5-f7ab-4d54-9aea-3dc65170ad89.png)
+![image](https://user-images.githubusercontent.com/93794279/148857853-b3e03c41-eee7-4558-94a5-88e41bd85396.png)
 
-21. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+21.. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
 
 
 
