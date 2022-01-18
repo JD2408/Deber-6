@@ -97,7 +97,31 @@ d) T 5.6 * 10 = 93.52 F
 
 ![image](https://user-images.githubusercontent.com/93794279/149861828-ca8045f6-0b69-4386-acbb-2151fc4f6b24.png)
 
-17.Determine la constante de tiempo para el circuito de la figura 12-77
+17.En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores
+en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
+cara posterior.
+
+![1](https://user-images.githubusercontent.com/93800511/143364804-d7e8ab6c-fe3d-4057-ab88-b0a1a536bcd8.png)
+
+18.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
+localizado en el circuito?
+
+![1](https://user-images.githubusercontent.com/93800511/143508482-490379e8-7430-4aa7-bf4c-bdea3d47d892.png)
+
+El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
+
+19.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
+de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
+control. Trace el diagrama esquemático.
+
+![1](https://user-images.githubusercontent.com/93800511/143509093-5fb97f0d-b273-43a6-bfd9-662960dc70e9.png)
+
+20.. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+![image](https://user-images.githubusercontent.com/93794279/149865160-b6a679e5-f7ab-4d54-9aea-3dc65170ad89.png)
+
+21. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+
 
 ## 4. VIDEOS
 
