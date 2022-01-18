@@ -24,7 +24,12 @@ SECCIÓN 12–1 El capacitor básico
 
 ![image](https://user-images.githubusercontent.com/93794279/149849763-08df72f7-2669-48d3-a698-86b093f54ec2.png)
 
-3. Transforme los siguientes valores de picofarads a microfarads:
+2. Transforme los siguientes valores de picofarads a microfarads:
 (a) 1000 pF (b) 3500 pF (c) 250 pF
 
 ![image](https://user-images.githubusercontent.com/93794279/149849979-4707411d-554c-4822-8639-f47ddea96563.png)
+
+3.  ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/93794279/149850145-9b2d3b9a-fc53-4de7-b597-0b2644a4633d.png)
+
