@@ -7,8 +7,26 @@
 #### Integrantes: Padilla Kevin, Samueza David, Avilés Kevin
 
 ## 1. OBJETIVOS
+## Objetivo General
+
+Analizar de las variables en conexiones de capacitores en serie y paralelo, para entender el comportamiento de los diferentes capacitores en circuitos mixtos.
+## Objetivos específicos
+1. Identificar una forma de onda sinusoidal y medir sus características.
+2. Determinar los diversos valores de voltaje y corriente de una onda seno.
+3. Describir la construcción y las características básicas de un capacitor
 
 ## 2. MARCO TEÓRICO
+
+## Capítulo 11
+
+![Diagrama en blanco (17)](https://user-images.githubusercontent.com/94129932/149947950-d120fefa-12ed-4df3-9979-c910a0ee63b4.png)
+![Diagrama en blanco (18)](https://user-images.githubusercontent.com/94129932/149948746-2befb26b-ae16-4469-8674-a3e117a216de.png)
+
+## Capítulo 12
+
+![Diagrama en blanco (19)](https://user-images.githubusercontent.com/94129932/149950257-45eeaaec-50cf-4465-8b5a-a295cc02d064.png)
+![Diagrama en blanco (20)](https://user-images.githubusercontent.com/94129932/149952193-eeca2919-888c-493b-801e-c5e2ae3c6770.png)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
@@ -243,6 +261,9 @@ El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 ## 4. VIDEOS
 
 ## 5. CONCLUSIONES
+1. Los capacitores como las resistencias se pueden conectar en serie y en paralelo. Para los capacitores en serie, la carga es la misma en todos ellos.
+2. El capacitor es un dispositivo que almacena energía en un campo electrostático.
+3. Para capacitores en paralelo el voltaje es igual y para capacitores en serie el voltaje equivalente es la suma de los voltajes de cada capacitor.
 ## 6. BIBLIOGRAFIA
 1.Fernández, J. L. (n.d.). Capacidad Eléctrica. Fisicalab.com. Retrieved January 18, 2022, from https://www.fisicalab.com/apartado/capacidad-electrica
 2.La ecuación de corriente y voltaje de un capacitor en acción. (n.d.). Khan Academy. Retrieved January 18, 2022, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-capacitor-equation-in-action
