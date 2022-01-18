@@ -123,5 +123,7 @@ El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 ## 5. CONCLUSIONES
 ## 6. BIBLIOGRAFIA
 1.Fernández, J. L. (n.d.). Capacidad Eléctrica. Fisicalab.com. Retrieved January 18, 2022, from https://www.fisicalab.com/apartado/capacidad-electrica
+2.La ecuación de corriente y voltaje de un capacitor en acción. (n.d.). Khan Academy. Retrieved January 18, 2022, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-capacitor-equation-in-action
+
 
 
