@@ -46,6 +46,10 @@ SECCIÓN 12–1 El capacitor básico
 
 ![image](https://user-images.githubusercontent.com/93794279/149850924-1abe8a6d-daf3-4425-8026-7cbff0afd5a1.png)
 
+7.Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio
+de capacitancia provocará un incremento de 25°C en la temperatura?
+
+![image](https://user-images.githubusercontent.com/93794279/149851137-7794b6d8-5a00-4757-88b1-8d785540cac5.png)
 
 
 ## 4. VIDEOS
