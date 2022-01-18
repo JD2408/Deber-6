@@ -23,3 +23,8 @@ SECCIÓN 12–1 El capacitor básico
 (c) Determine el voltaje cuando Q = 2 mC y C = 200 mF. 
 
 ![image](https://user-images.githubusercontent.com/93794279/149849763-08df72f7-2669-48d3-a698-86b093f54ec2.png)
+
+3. Transforme los siguientes valores de picofarads a microfarads:
+(a) 1000 pF (b) 3500 pF (c) 250 pF
+
+![image](https://user-images.githubusercontent.com/93794279/149849979-4707411d-554c-4822-8639-f47ddea96563.png)
