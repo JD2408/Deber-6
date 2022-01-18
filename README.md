@@ -97,11 +97,9 @@ d) T 5.6 * 10 = 93.52 F
 
 ![image](https://user-images.githubusercontent.com/93794279/149861828-ca8045f6-0b69-4386-acbb-2151fc4f6b24.png)
 
-17.En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores
-en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
-cara posterior.
+17. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
-![1](https://user-images.githubusercontent.com/93800511/143364804-d7e8ab6c-fe3d-4057-ab88-b0a1a536bcd8.png)
+![image](https://user-images.githubusercontent.com/93794279/141905541-e5d0198a-1b2c-4667-bdf6-e1269ab8b3f5.png)
 
 18.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
 localizado en el circuito?
