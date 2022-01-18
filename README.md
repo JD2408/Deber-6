@@ -93,6 +93,11 @@ d) T 5.6 * 10 = 93.52 F
 15. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores.
 
 ![image](https://user-images.githubusercontent.com/93794279/149860812-e4349e1a-21b0-488c-a6dc-7d1b07adf4a9.png)
+16. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/93794279/149861828-ca8045f6-0b69-4386-acbb-2151fc4f6b24.png)
+
+17.Determine la constante de tiempo para el circuito de la figura 12-77
 
 ## 4. VIDEOS
 
