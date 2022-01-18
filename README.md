@@ -51,6 +51,33 @@ de capacitancia provocará un incremento de 25°C en la temperatura?
 
 ![image](https://user-images.githubusercontent.com/93794279/149851137-7794b6d8-5a00-4757-88b1-8d785540cac5.png)
 
+SECCIÓN 12–2 Tipos de capacitores
+8. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+Los condensadores cerámicos se fabrican recubriendo dos caras de porcelana pequeña con plata y se apilan para formar un condensador. la constante dieléctrica es la relación entre la permitividad absoluta del medio y la permitividad absoluta del vacío y la constante dieléctrica típica de la cerámica es de 1200 y la de la mica es de 5. los condensadores cerámicos tienen una gran constante dieléctrica y están disponibles para que se puedan obtener capacitancias relativamente altas en un tamaño físico pequeño. presentan grandes cambios no lineales en la capacitancia frente a la temperatura e incluso son dispositivos no polarizados, por lo que se pueden utilizar como condensadores de paso.
+
+9. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores ?.
+
+Un condensador electrolítico contiene dos placas conductoras, una capa aislante y un "electrolito" líquido como el ácido bórico. Debido a su composición química, una placa se convierte en el ánodo, o la placa positiva, y la otra se convierte en el cátodo, o la placa negativa. El condensador electrolítico básico es de óxido de aluminio y tiene la apariencia de un cilindro con dos patas.
+
+11. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+0.022 uF=0.022 x 10^-6 F
+0.047 uF = 0.047 x 10^-6 F
+0.001 uF = 0.001 x 10^-6 F
+220 pF = 220 x 10^-12 F
+
+12. Determine la CT para cada circuito de la figura 12-71
+
+a) 
+Ct= 47+10+1000
+Ct=1057 pF
+b) 
+Ct=1/{(1/0.1)+(1/0.01)+(1/0.001)+(1/0.0001)}
+Ct= 0.00000989
+Ct=9.89 pF
+
+
 
 ## 4. VIDEOS
 
